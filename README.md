@@ -1,5 +1,7 @@
 # Pagina de Noticias
 
+![Resultado do desafio](./assets/images/Print.jpg)
+
 ### Este repositorio faz parte do desafio FrontEnd Mentor:
 
 ### - Pagina em HTML, CSS e JavaScript
